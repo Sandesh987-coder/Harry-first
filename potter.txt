@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 My name is potter
 
 dfgsgdfgdfggf
 dfgasdfdgsdf
+=======
+My name is potter
+>>>>>>> ebc7d293787cb7b4c701d8611c85df0d5592df1a
